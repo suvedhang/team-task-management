@@ -1,6 +1,6 @@
 # Team Task Management
 
-This repository is organized into one work area per Git branch. Each branch contains
+The shared project overview is maintained on the default branch. Each branch contains
 the shared project overview and its matching folder:
 
 | Branch | Folder | Purpose |
