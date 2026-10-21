@@ -1,6 +1,6 @@
 # Team Task Management
 
-The frontend branch is the source of truth for the project overview. Each branch contains
+The shared project overview is maintained on the default branch. Each branch contains
 the shared project overview and its matching folder:
 
 | Branch | Folder | Purpose |
