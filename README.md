@@ -1,6 +1,6 @@
 # Team Task Management
 
-This repository is organized into one work area per Git branch. Each branch contains
+The frontend branch is the source of truth for the project overview. Each branch contains
 the shared project overview and its matching folder:
 
 | Branch | Folder | Purpose |
